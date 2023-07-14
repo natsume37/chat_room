@@ -1,2 +1,2 @@
 # chat_room
-python_学习
+主要是python的综合实战
