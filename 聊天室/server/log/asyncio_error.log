@@ -1,0 +1,875 @@
+2023-07-12 18:30:54 MainThread:8340 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 290, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 323, in recv_file
+    async with aiofiles.open(file_path, 'wb')as f:
+NameError: name 'aiofiles' is not defined
+2023-07-12 18:31:33 MainThread:8340 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:218> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 231, in send_all
+    await conn.send(dic ,file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 20:50:15 MainThread:13060 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 289, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 321, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-12 20:51:17 MainThread:13060 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:220> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 233, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 21:24:12 MainThread:6832 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 289, in recv
+    # 接受文件类型
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 321, in recv_file
+    break
+NameError: name 'aiofiles' is not defined
+2023-07-12 21:33:04 MainThread:6832 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:220> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 233, in send_all
+    continue
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 21:51:18 MainThread:9492 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 235, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 22:04:36 MainThread:16924 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 235, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 22:10:02 MainThread:10556 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 235, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 22:44:12 MainThread:5064 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 235, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 22:44:31 MainThread:11688 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 236, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 22:45:06 MainThread:1696 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 236, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 22:45:40 MainThread:4612 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 236, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 22:46:07 MainThread:2860 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 236, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 23:00:23 MainThread:14316 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 236, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 23:05:03 MainThread:12520 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 236, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 23:06:54 MainThread:8804 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 236, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 23:09:17 MainThread:12576 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 237, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 23:53:20 MainThread:6900 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 238, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-12 23:57:26 MainThread:1584 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:221> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 238, in send_all
+    continue
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:00:27 MainThread:5476 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:04:54 MainThread:8436 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 238, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:07:24 MainThread:8552 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 238, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:10:15 MainThread:6832 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:15:22 MainThread:12280 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:15:42 MainThread:6104 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:18:52 MainThread:14520 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:19:07 MainThread:4052 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:19:10 MainThread:11376 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:19:12 MainThread:4624 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:19:14 MainThread:8376 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:24:27 MainThread:10440 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:26:30 MainThread:14436 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 239, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 00:27:06 MainThread:8712 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 240, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 09:01:27 MainThread:14804 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 240, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 09:24:50 MainThread:15100 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 240, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 09:29:12 MainThread:3748 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=UnboundLocalError("local variable 'file_path' referenced before assignment")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 241, in send_all
+    await conn.send(dic, file_path)
+UnboundLocalError: local variable 'file_path' referenced before assignment
+2023-07-13 09:47:28 MainThread:7420 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-28' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 326, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 10:02:38 MainThread:7420 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-36' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 326, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 12:38:46 MainThread:15328 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    # 接受文件类型
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 326, in recv_file
+    break
+NameError: name 'aiofiles' is not defined
+2023-07-13 12:39:29 MainThread:6588 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<MyConn.send_all() done, defined at E:\pythonProject\chat_room\server\lib\common.py:222> exception=AttributeError("type object 'MyConn' has no attribute 'offline_users'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 238, in send_all
+    for user in cls.offline_users:
+AttributeError: type object 'MyConn' has no attribute 'offline_users'
+2023-07-13 12:43:48 MainThread:15272 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 326, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:01:56 MainThread:16176 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 326, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:04:11 MainThread:5564 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:08:48 MainThread:5564 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:22:23 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:26:58 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:32:04 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:47:11 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:50:00 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:51:19 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 13:57:03 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-24' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 14:02:01 MainThread:15396 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-28' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 327, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 14:02:30 MainThread:17324 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 328, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 14:08:18 MainThread:17324 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 328, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 14:09:02 MainThread:14992 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 14:24:56 MainThread:18340 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 14:25:54 MainThread:10104 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 14:52:13 MainThread:7320 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 15:45:18 MainThread:8504 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 15:46:25 MainThread:8504 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:01:30 MainThread:8504 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    break
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:04:14 MainThread:8504 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    break
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:06:37 MainThread:8504 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 329, in recv_file
+    break
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:10:51 MainThread:13840 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 331, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:13:47 MainThread:13840 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 331, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:21:26 MainThread:18300 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 296, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 331, in recv_file
+    break
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:26:11 MainThread:16084 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 330, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:27:33 MainThread:15364 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 336, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:42:02 MainThread:18268 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 337, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 16:42:33 MainThread:9940 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 337, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 19:59:24 MainThread:10444 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 337, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 19:59:24 MainThread:10444 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 337, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 20:02:36 MainThread:17688 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=NameError("name 'aiofiles' is not defined")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 337, in recv_file
+    async with aiofiles.open(file_path, 'wb') as f:
+NameError: name 'aiofiles' is not defined
+2023-07-13 20:07:42 MainThread:11228 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 347, in recv_file
+    f.write(temp)
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 22:18:22 MainThread:19204 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 349, in recv_file
+    f.write(temp)5
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 22:53:59 MainThread:17144 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 349, in recv_file
+    f.write(temp)
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 22:53:59 MainThread:17144 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 349, in recv_file
+    f.write(temp)
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 23:01:27 MainThread:17248 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 349, in recv_file
+    f.write(temp)
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 23:08:26 MainThread:17248 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 349, in recv_file
+    f.write(temp)
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 23:15:06 MainThread:14064 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 348, in recv_file
+    f.write(temp)
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 23:26:23 MainThread:15588 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("a bytes-like object is required, not 'coroutine'")>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 294, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 348, in recv_file
+    await f.write(temp)
+TypeError: a bytes-like object is required, not 'coroutine'
+2023-07-13 23:28:37 MainThread:768 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=AttributeError('__enter__')>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 337, in recv_file
+    with aiofiles.open(file_path, 'wb') as f:
+AttributeError: __enter__
+2023-07-13 23:30:45 MainThread:19188 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=AttributeError('__enter__')>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 295, in recv
+    return await self.recv_file(request_dic)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 337, in recv_file
+    with aiofiles.open(file_path, 'wb') as f:
+AttributeError: __enter__
+2023-07-13 23:30:46 MainThread:13816 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\start.py", line 12, in <module>
+    run()
+  File "E:\pythonProject\chat_room\server\core\server.py", line 37, in run
+    Chatserver(HOST, PORT)
+  File "E:\pythonProject\chat_room\server\core\server.py", line 19, in __init__
+    asyncio.run(asyncio.wait([self.run_server(), MyConn.send_all()]))
+  File "D:\worker\python\py_3.10\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+  File "D:\worker\python\py_3.10\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "E:\pythonProject\chat_room\server\core\server.py", line 26, in client_handel
+    await fn(conn, request_dic)
+  File "E:\pythonProject\chat_room\server\core\views.py", line 98, in reconnect
+    LOGGER.info('【{}】进入了聊天室'.format(user))
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 1477, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 1624, in _log
+    self.handle(record)
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 1634, in handle
+    self.callHandlers(record)
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 1696, in callHandlers
+    hdlr.handle(record)
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 968, in handle
+    self.emit(record)
+  File "D:\worker\python\py_3.10\lib\logging\handlers.py", line 75, in emit
+    logging.FileHandler.emit(self, record)
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 1218, in emit
+    StreamHandler.emit(self, record)
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 1104, in emit
+    self.flush()
+  File "D:\worker\python\py_3.10\lib\logging\__init__.py", line 1084, in flush
+    self.stream.flush()
+KeyboardInterrupt
+2023-07-14 14:42:19 MainThread:3168 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] unhandled exception during asyncio.run() shutdown
+task: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("object NoneType can't be used in 'await' expression")>
+Traceback (most recent call last):
+  File "D:\worker\python\py_3.10\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 1871, in _run_once
+    event_list = self._selector.select(timeout)
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 444, in select
+    self._poll(timeout)
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 797, in _poll
+    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 274, in recv
+    len_bytes = await self.read(PROTOCOL_LENGTH)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 271, in read
+    return await self.reader.read(recv_len)
+  File "D:\worker\python\py_3.10\lib\asyncio\streams.py", line 669, in read
+    await self._wait_for_data('read')
+  File "D:\worker\python\py_3.10\lib\asyncio\streams.py", line 501, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 22, in client_handel
+    async with MyConn(reader, writer) as conn:
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 360, in __aexit__
+    await self.close()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 347, in close
+    await self.writer.close()
+TypeError: object NoneType can't be used in 'await' expression
+2023-07-14 14:43:42 MainThread:1632 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] unhandled exception during asyncio.run() shutdown
+task: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("object NoneType can't be used in 'await' expression")>
+Traceback (most recent call last):
+  File "D:\worker\python\py_3.10\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 1871, in _run_once
+    event_list = self._selector.select(timeout)
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 444, in select
+    self._poll(timeout)
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 797, in _poll
+    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 274, in recv
+    len_bytes = await self.read(PROTOCOL_LENGTH)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 271, in read
+    return await self.reader.read(recv_len)
+  File "D:\worker\python\py_3.10\lib\asyncio\streams.py", line 669, in read
+    await self._wait_for_data('read')
+  File "D:\worker\python\py_3.10\lib\asyncio\streams.py", line 501, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 22, in client_handel
+    async with MyConn(reader, writer) as conn:
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 360, in __aexit__
+    await self.close()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 347, in close
+    await self.writer.close()
+TypeError: object NoneType can't be used in 'await' expression
+2023-07-14 14:46:10 MainThread:20452 [asyncio] ERROR [D:\worker\python\py_3.10\lib\asyncio\base_events.py:1758] unhandled exception during asyncio.run() shutdown
+task: <Task finished name='Task-8' coro=<Chatserver.client_handel() done, defined at E:\pythonProject\chat_room\server\core\server.py:21> exception=TypeError("object NoneType can't be used in 'await' expression")>
+Traceback (most recent call last):
+  File "D:\worker\python\py_3.10\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "D:\worker\python\py_3.10\lib\asyncio\base_events.py", line 1871, in _run_once
+    event_list = self._selector.select(timeout)
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 444, in select
+    self._poll(timeout)
+  File "D:\worker\python\py_3.10\lib\asyncio\windows_events.py", line 797, in _poll
+    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 24, in client_handel
+    request_dic = await conn.recv()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 274, in recv
+    len_bytes = await self.read(PROTOCOL_LENGTH)
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 271, in read
+    return await self.reader.read(recv_len)
+  File "D:\worker\python\py_3.10\lib\asyncio\streams.py", line 669, in read
+    await self._wait_for_data('read')
+  File "D:\worker\python\py_3.10\lib\asyncio\streams.py", line 501, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\pythonProject\chat_room\server\core\server.py", line 22, in client_handel
+    async with MyConn(reader, writer) as conn:
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 360, in __aexit__
+    await self.close()
+  File "E:\pythonProject\chat_room\server\lib\common.py", line 347, in close
+    await self.writer.close()
+TypeError: object NoneType can't be used in 'await' expression

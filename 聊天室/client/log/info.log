@@ -1,0 +1,860 @@
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:01:43 Dummy-1:7592 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:294] 重连字典发送成功
+2023-07-11 18:42:24 Dummy-1:16560 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连  这
+2023-07-11 19:17:25 Dummy-1:24160 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-11 19:17:25 Dummy-1:24160 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:295] 重连字典发送成功
+2023-07-11 19:17:28 Dummy-1:13748 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-11 19:17:28 Dummy-1:13748 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:295] 重连字典发送成功
+2023-07-11 19:30:26 Dummy-1:26352 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-11 19:30:26 Dummy-1:26352 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:295] 重连字典发送成功
+2023-07-11 19:31:58 Dummy-1:11472 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-11 19:31:58 Dummy-1:11472 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:295] 重连字典发送成功
+2023-07-11 19:59:44 Dummy-1:17344 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连  这
+2023-07-11 20:01:39 Dummy-1:3720 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连  这
+
+2023-07-11 22:17:46 MainThread:29332 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:17:50 MainThread:29332 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:17:54 MainThread:29332 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:18:14 MainThread:16164 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:18:17 MainThread:16164 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:18:20 MainThread:16164 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:35:47 MainThread:28544 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:35:50 MainThread:28544 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:35:53 MainThread:28544 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-11 22:37:24 Dummy-1:19004 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-11 22:37:24 Dummy-1:19004 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:310] 重连字典发送成功
+2023-07-11 23:39:21 Dummy-1:6184 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连  这
+2023-07-12 00:13:28 Dummy-1:25316 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:78] 连接断开、正在重连  这
+2023-07-12 09:28:49 Dummy-1:23792 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 09:31:41 Dummy-1:16124 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 09:32:47 Dummy-1:20044 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 09:34:25 Dummy-1:16008 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 09:59:33 Dummy-1:14884 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:01:50 Dummy-1:8200 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:01:50 Dummy-1:8200 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:315] 重连字典发送成功
+2023-07-12 10:08:43 Dummy-1:17620 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:08:43 Dummy-1:17620 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:312] 重连字典发送成功
+2023-07-12 10:15:29 Dummy-1:17620 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:15:29 Dummy-1:20960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:15:30 Dummy-1:20960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:312] 重连字典发送成功
+2023-07-12 10:15:30 Dummy-1:17620 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:312] 重连字典发送成功
+2023-07-12 10:20:49 Dummy-1:12668 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:20:50 Dummy-1:12668 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:307] 重连字典发送成功
+2023-07-12 10:25:30 Dummy-1:12668 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:25:31 Dummy-1:12668 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:307] 重连字典发送成功
+2023-07-12 10:33:50 Dummy-1:29632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:33:50 Dummy-1:27360 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:33:50 Dummy-1:27360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:34:14 Dummy-1:27360 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:34:14 Dummy-1:27360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:34:43 Dummy-1:27360 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:34:43 Dummy-1:26540 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:34:44 Dummy-1:27360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:34:47 Dummy-1:27360 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:34:48 Dummy-1:27360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:34:49 Dummy-1:27360 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:34:50 Dummy-1:27360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:34:52 Dummy-1:27360 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:34:52 Dummy-1:27360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:35:13 Dummy-1:27360 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 10:35:13 Dummy-1:27360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:36:35 Dummy-1:27024 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:36:35 Dummy-1:23500 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:37:13 Dummy-1:29016 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:38:21 Dummy-1:12336 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:38:21 Dummy-1:12336 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:39:23 Dummy-1:12336 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:39:23 Dummy-1:13392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:39:24 Dummy-1:13392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:39:24 Dummy-1:12336 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:308] 重连字典发送成功
+2023-07-12 10:46:16 Dummy-1:12336 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:46:16 Dummy-1:13392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:46:18 Dummy-1:13392 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:46:18 Dummy-1:12336 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:46:23 Dummy-1:13392 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:46:23 Dummy-1:12336 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:46:27 Dummy-1:13392 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:46:27 Dummy-1:12336 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:50:10 MainThread:7788 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:50:40 Dummy-1:26076 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:53:18 Dummy-1:5644 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:53:19 Dummy-1:5644 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:316] 重连字典发送成功
+2023-07-12 10:54:16 Dummy-1:15468 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:54:17 Dummy-1:15468 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:316] 重连字典发送成功
+2023-07-12 10:59:46 Dummy-1:16616 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 10:59:48 Dummy-1:16616 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:59:52 Dummy-1:16616 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 10:59:56 Dummy-1:16616 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 11:00:37 MainThread:16648 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 11:00:58 Dummy-1:20104 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 11:02:07 MainThread:11780 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 11:02:34 Dummy-1:26160 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 11:07:13 MainThread:21284 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 11:07:17 MainThread:21284 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:70] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 11:07:41 Dummy-1:9656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 11:07:41 Dummy-1:9656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:314] 重连字典发送成功
+2023-07-12 11:08:41 Dummy-1:24500 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 11:08:42 Dummy-1:24500 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:314] 重连字典发送成功
+2023-07-12 11:22:02 Dummy-1:29208 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 11:23:19 Dummy-1:19004 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 11:23:19 Dummy-1:19004 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:309] 重连字典发送成功
+2023-07-12 11:23:44 Dummy-1:27664 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 11:23:45 Dummy-1:27664 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:309] 重连字典发送成功
+2023-07-12 11:41:36 Dummy-1:20388 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 11:41:36 Dummy-1:20388 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:344] 重连字典发送成功
+2023-07-12 11:46:05 Dummy-1:27580 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 11:46:05 Dummy-1:27580 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:345] 重连字典发送成功
+2023-07-12 11:46:12 Dummy-1:28012 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 11:46:12 Dummy-1:28012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:345] 重连字典发送成功
+2023-07-12 11:46:55 Dummy-1:1168 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 11:46:55 Dummy-1:1168 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:345] 重连字典发送成功
+2023-07-12 11:47:05 Dummy-1:19564 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 11:47:05 Dummy-1:19564 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:345] 重连字典发送成功
+2023-07-12 11:53:36 Dummy-1:25248 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 11:53:36 Dummy-1:25248 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:350] 重连字典发送成功
+2023-07-12 12:59:28 Dummy-1:7052 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 12:59:28 Dummy-1:7052 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:370] 重连字典发送成功
+2023-07-12 13:24:27 Dummy-1:15528 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 13:24:27 Dummy-1:15528 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:394] 重连字典发送成功
+2023-07-12 14:20:18 Dummy-1:4100 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 14:20:20 Dummy-1:4100 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:81] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 14:20:24 Dummy-1:4100 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:81] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 14:20:28 Dummy-1:4100 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:81] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 14:40:10 MainThread:13860 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 123说：你好呀
+2023-07-12 14:40:24 MainThread:29164 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 1234说：你好
+2023-07-12 14:40:40 Dummy-1:28960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 14:40:40 Dummy-1:28960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:419] 重连字典发送成功
+2023-07-12 14:40:41 Dummy-1:15528 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 14:40:41 Dummy-1:15528 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:419] 重连字典发送成功
+2023-07-12 14:44:44 MainThread:21940 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 1234说：你好呀
+2023-07-12 14:47:06 MainThread:18872 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 1234说：你哈
+2023-07-12 14:47:24 Dummy-1:8372 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 14:47:24 Dummy-1:8372 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:419] 重连字典发送成功
+2023-07-12 14:47:26 Dummy-1:2628 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 14:47:26 Dummy-1:2628 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:419] 重连字典发送成功
+2023-07-12 14:48:57 MainThread:26652 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 1234说：你好
+2023-07-12 14:49:10 MainThread:26652 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 1234说：能看见不
+2023-07-12 14:49:53 MainThread:7464 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 123说：可以
+2023-07-12 14:50:01 MainThread:26652 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:320] 1234说：好的
+2023-07-12 14:50:09 Dummy-1:11576 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 14:50:09 Dummy-1:11576 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:419] 重连字典发送成功
+2023-07-12 14:50:10 Dummy-1:23696 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 14:50:10 Dummy-1:23696 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:419] 重连字典发送成功
+2023-07-12 15:11:59 Dummy-1:8200 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 15:11:59 Dummy-1:8200 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:446] 重连字典发送成功
+2023-07-12 15:13:16 Dummy-1:25408 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 15:13:16 Dummy-1:25408 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:446] 重连字典发送成功
+2023-07-12 15:13:37 MainThread:23036 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:346] 1234说：你好
+2023-07-12 15:13:57 MainThread:23036 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:346] 1234说：你好
+2023-07-12 15:14:04 Dummy-1:25588 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 15:14:04 Dummy-1:25588 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:446] 重连字典发送成功
+2023-07-12 15:14:05 Dummy-1:12856 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 15:14:05 Dummy-1:12856 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:446] 重连字典发送成功
+2023-07-12 15:23:12 Dummy-1:3380 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 15:23:12 Dummy-1:3380 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:455] 重连字典发送成功
+2023-07-12 15:30:10 Dummy-1:18596 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-12 15:48:06 Dummy-1:7620 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 15:48:06 Dummy-1:7620 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:464] 重连字典发送成功
+2023-07-12 16:20:59 MainThread:11036 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:312] 我发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:21:36 Dummy-1:11740 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 16:21:36 Dummy-1:11740 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:504] 重连字典发送成功
+2023-07-12 16:22:25 MainThread:12476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:312] 我发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:22:31 Dummy-1:2904 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 16:22:31 Dummy-1:2904 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:504] 重连字典发送成功
+2023-07-12 16:30:29 MainThread:12708 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:322] 我发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:30:43 Dummy-1:1900 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 16:30:43 Dummy-1:1900 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:514] 重连字典发送成功
+2023-07-12 16:34:19 MainThread:8460 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:322] 我发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:34:35 Dummy-1:3716 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 16:34:35 Dummy-1:3716 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:514] 重连字典发送成功
+2023-07-12 16:36:05 MainThread:3952 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:323] 我发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:36:54 MainThread:6728 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:324] 我发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:39:22 MainThread:9524 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:325] 我发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:43:26 MainThread:8240 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:325] 我发送了文件：file://C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:52:44 MainThread:14100 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:326] 我发送了文件：file://C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 16:53:54 Dummy-1:796 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 16:53:54 Dummy-1:796 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:518] 重连字典发送成功
+2023-07-12 16:55:33 MainThread:12532 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:326] 我发送了文件：file://C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 17:16:39 MainThread:2188 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:361] 我发送了文件：file://C:/Users/19570/Desktop/学习计划.md
+2023-07-12 17:17:22 Dummy-1:4788 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 17:17:22 Dummy-1:4788 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:553] 重连字典发送成功
+2023-07-12 17:17:56 MainThread:9296 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:361] 我发送了文件：file://C:/Users/19570/Desktop/学习计划.md
+2023-07-12 17:19:12 MainThread:9184 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:361] 我发送了文件：file://C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 17:19:19 MainThread:9184 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:361] 我发送了文件：file://C:/Users/19570/Desktop/学习计划.md
+2023-07-12 17:19:33 Dummy-1:5196 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 17:19:33 Dummy-1:5196 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:553] 重连字典发送成功
+2023-07-12 18:30:31 MainThread:9844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:421] 我发送了文件：file://C:/Users/19570/Desktop/学习计划.md
+2023-07-12 18:30:54 Dummy-1:7992 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 18:30:54 Dummy-1:7992 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 18:30:55 Dummy-1:8396 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 18:30:55 Dummy-1:8396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 20:49:51 MainThread:12164 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:421] 我发送了文件：file://C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-12 20:50:15 Dummy-1:15208 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 20:50:15 Dummy-1:15208 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 20:50:17 Dummy-1:4276 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 20:50:17 Dummy-1:4276 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 20:51:17 Dummy-1:2536 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 20:51:18 Dummy-1:2536 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 21:20:02 Dummy-1:5052 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 21:20:02 Dummy-1:5052 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:667] 重连字典发送成功
+2023-07-12 21:23:21 MainThread:12296 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:421] 我发送了文件：file://C:/Users/19570/Desktop/学习计划.md
+2023-07-12 21:23:26 MainThread:12296 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:421] 我发送了文件：file://C:/Users/19570/Desktop/作业1.py
+2023-07-12 21:24:12 Dummy-1:10372 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-12 21:24:12 Dummy-1:10372 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:665] 重连字典发送成功
+2023-07-12 21:33:04 Dummy-1:12568 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 21:33:04 Dummy-1:12568 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:667] 重连字典发送成功
+2023-07-12 21:34:07 Dummy-1:12568 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 21:34:07 Dummy-1:12568 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:667] 重连字典发送成功
+2023-07-12 21:51:18 Dummy-1:15220 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 21:51:18 Dummy-1:2092 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 21:51:18 Dummy-1:2092 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:667] 重连字典发送成功
+2023-07-12 21:51:18 Dummy-1:15220 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:667] 重连字典发送成功
+2023-07-12 22:04:36 Dummy-1:1904 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:10:02 Dummy-1:8852 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:10:02 Dummy-1:760 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:10:04 Dummy-1:760 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 22:10:04 Dummy-1:8852 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 22:10:08 Dummy-1:760 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 22:10:08 Dummy-1:8852 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 22:10:12 Dummy-1:8852 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 22:10:12 Dummy-1:760 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 22:44:12 Dummy-1:2260 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:44:12 Dummy-1:12632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:44:12 Dummy-1:2260 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:44:12 Dummy-1:12632 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:44:31 Dummy-1:2260 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:44:31 Dummy-1:12632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:44:31 Dummy-1:2260 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:44:31 Dummy-1:12632 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:45:06 Dummy-1:2260 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:45:06 Dummy-1:12632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:45:08 Dummy-1:2260 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+2023-07-12 22:45:12 Dummy-1:2260 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+2023-07-12 22:45:14 Dummy-1:2260 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:45:14 Dummy-1:12632 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:45:40 Dummy-1:2260 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:45:40 Dummy-1:12632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:45:42 Dummy-1:12632 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:45:42 Dummy-1:2260 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 22:46:07 Dummy-1:2260 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:46:07 Dummy-1:12632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 22:46:09 Dummy-1:2260 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+
+2023-07-12 23:00:23 Dummy-1:1476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:00:23 Dummy-1:1476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:00:23 Dummy-1:8320 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:05:03 Dummy-1:8320 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:05:03 Dummy-1:1476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:05:04 Dummy-1:8320 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:05:04 Dummy-1:1476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:06:54 Dummy-1:1476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:06:54 Dummy-1:8320 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:06:55 Dummy-1:1476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:09:17 Dummy-1:8320 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:09:17 Dummy-1:1476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:09:18 Dummy-1:8320 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:09:18 Dummy-1:1476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:53:20 Dummy-1:9632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+
+2023-07-12 23:53:20 Dummy-1:8320 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:53:22 Dummy-1:10344 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 23:53:22 Dummy-1:9632 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:159] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-12 23:53:24 Dummy-1:10344 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:53:24 Dummy-1:9632 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:57:26 Dummy-1:9632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:57:26 Dummy-1:10344 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:57:26 Dummy-1:8320 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-12 23:57:27 Dummy-1:8320 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:57:27 Dummy-1:9632 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-12 23:57:27 Dummy-1:10344 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:00:27 Dummy-1:9632 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:00:27 Dummy-1:10344 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:00:27 Dummy-1:8320 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:00:28 Dummy-1:8320 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:00:28 Dummy-1:9632 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:00:28 Dummy-1:10344 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:01:06 Dummy-1:8320 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 00:01:06 Dummy-1:8320 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:04:54 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:04:54 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:04:54 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:04:54 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:04:54 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:04:54 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:07:24 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:07:24 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:07:24 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:07:24 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:07:24 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:10:15 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:10:15 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:10:15 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:10:15 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:15:22 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:15:22 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:15:22 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:15:23 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:15:23 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:15:23 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:15:42 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+
+2023-07-13 00:15:42 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:15:42 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+
+2023-07-13 00:15:42 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:18:52 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:18:52 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:18:53 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:18:53 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:07 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:07 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:07 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:08 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:08 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:08 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:10 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+
+2023-07-13 00:19:10 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:10 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:10 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:10 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:12 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:12 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:12 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:12 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:12 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:12 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:14 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:14 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:14 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:19:14 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:14 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:19:14 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:24:27 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:24:27 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:24:28 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:24:28 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:24:28 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:26:30 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:26:30 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:26:30 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:26:31 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:26:31 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:26:31 Dummy-1:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:27:06 Dummy-1:11660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:27:06 Dummy-1:11412 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:27:06 Dummy-1:9476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 00:27:07 Dummy-1:11412 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 00:27:07 Dummy-1:9476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:01:27 Dummy-1:11608 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:01:27 Dummy-1:6572 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:01:28 Dummy-1:11608 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:01:28 Dummy-1:6572 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:01:28 Dummy-1:2208 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:24:50 Dummy-1:2208 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:24:50 Dummy-1:11608 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:24:50 Dummy-1:6572 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:24:50 Dummy-1:2208 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:24:50 Dummy-1:6572 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:24:50 Dummy-1:11608 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:27:27 Dummy-1:11608 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:27:28 Dummy-1:11608 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:27:28 Dummy-1:2208 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:27:28 Dummy-1:6572 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:29:12 Dummy-1:6572 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:29:12 Dummy-1:2208 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:29:12 Dummy-1:11608 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:29:12 Dummy-1:2208 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:29:12 Dummy-1:6572 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+
+2023-07-13 09:32:30 MainThread:10916 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:561] 1234说：你好
+2023-07-13 09:34:48 Dummy-1:6572 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:34:48 Dummy-1:11608 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 09:34:48 Dummy-1:2208 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:34:48 Dummy-1:6572 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:34:48 Dummy-1:11608 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:35:14 Dummy-1:11608 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 09:35:14 Dummy-1:11608 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:35:15 Dummy-1:2208 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 09:35:15 Dummy-1:2208 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:35:18 Dummy-1:6572 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 09:35:18 Dummy-1:6572 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:35:58 MainThread:14640 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:561] 1234说：你好
+2023-07-13 09:36:06 MainThread:11116 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:561] 123说：你也好
+2023-07-13 09:37:33 Dummy-1:2060 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 09:37:33 Dummy-1:2060 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:37:35 Dummy-1:16196 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 09:37:35 Dummy-1:16196 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:46:38 MainThread:7900 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:561] 1234说：你好
+2023-07-13 09:46:59 MainThread:7900 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:421] 我发送了文件：file://C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 09:47:26 Dummy-1:15676 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 09:47:26 Dummy-1:15676 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:47:28 Dummy-1:12772 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 09:47:28 Dummy-1:12772 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:664] 重连字典发送成功
+2023-07-13 09:48:31 MainThread:6360 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:561] 123说：你好好
+2023-07-13 09:48:42 MainThread:15012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:421] 我发送了文件：file://C:/Users/19570/Desktop/学习计划.md
+2023-07-13 10:03:05 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:03:14 MainThread:15068 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 1234说：你好呀我是你爹
+2023-07-13 10:03:49 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:03:51 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:03:53 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:03:56 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:03:58 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:04:01 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:04:03 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:04:04 MainThread:9012 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 123说：你好
+2023-07-13 10:04:25 MainThread:15068 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 1234说：你好
+2023-07-13 10:04:28 MainThread:15068 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:567] 1234说：你好
+2023-07-13 10:06:18 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：你好呀
+2023-07-13 10:06:22 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：我是你爹
+2023-07-13 10:06:25 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：你好呀
+2023-07-13 10:06:31 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：哈哈哈哈或
+2023-07-13 10:06:34 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：高效
+2023-07-13 10:06:37 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：六六六
+2023-07-13 10:06:42 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：真不错
+2023-07-13 10:14:05 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：你好
+2023-07-13 10:14:08 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：你好
+2023-07-13 10:14:11 Dummy-1:16112 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 10:14:11 Dummy-1:16112 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:667] 重连字典发送成功
+2023-07-13 10:14:31 MainThread:4456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:568] 123说：你好
+2023-07-13 10:14:44 MainThread:3828 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:564] 1234说：你好
+2023-07-13 10:14:47 MainThread:3828 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:564] 1234说：你好
+2023-07-13 10:15:04 Dummy-1:1860 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 10:15:04 Dummy-1:1860 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:666] 重连字典发送成功
+2023-07-13 10:15:05 Dummy-1:13052 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 10:15:05 Dummy-1:13052 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:666] 重连字典发送成功
+2023-07-13 10:31:24 Dummy-1:12228 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 10:31:24 Dummy-1:12228 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:658] 重连字典发送成功
+2023-07-13 10:31:56 MainThread:10372 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:556] 1234说：你好呀
+2023-07-13 10:32:00 MainThread:10372 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:556] 1234说：我是你爹
+2023-07-13 10:32:04 MainThread:6096 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:556] 123说：你好
+2023-07-13 10:32:08 MainThread:6096 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:556] 123说：我是你爹
+2023-07-13 10:32:18 Dummy-1:11804 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 10:32:18 Dummy-1:11804 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:658] 重连字典发送成功
+2023-07-13 10:32:19 Dummy-1:12428 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 10:32:19 Dummy-1:12428 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:658] 重连字典发送成功
+2023-07-13 12:27:14 MainThread:9056 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:530] 1234说：你好
+2023-07-13 12:34:31 MainThread:11660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 1234说：你好
+2023-07-13 12:37:33 MainThread:13032 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:503] 1234发送了文件：C:/Users/19570/Desktop/学习计划.md
+2023-07-13 12:38:46 Dummy-1:7192 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 12:38:46 Dummy-1:6104 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 12:38:46 Dummy-1:6104 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:38:46 Dummy-1:7192 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:39:29 Dummy-1:6104 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 12:39:29 Dummy-1:7192 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 12:39:29 Dummy-1:6104 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:39:29 Dummy-1:7192 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:39:39 MainThread:16176 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 1234说：你好
+2023-07-13 12:39:49 MainThread:13032 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 123说：我是谁
+2023-07-13 12:39:53 Dummy-1:6104 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 12:39:53 Dummy-1:6104 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:39:54 Dummy-1:7192 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 12:39:54 Dummy-1:7192 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:42:27 MainThread:7128 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 1234说：你好
+2023-07-13 12:42:32 MainThread:7128 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 1234说：我是你爹
+2023-07-13 12:42:38 MainThread:14468 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:503] 1234发送了文件：C:/Users/19570/Desktop/学习计划.md
+2023-07-13 12:43:46 Dummy-1:9512 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 12:43:46 Dummy-1:9512 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:43:48 Dummy-1:4324 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 12:43:48 Dummy-1:4324 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 12:45:01 MainThread:8804 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:503] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 13:01:56 Dummy-1:8292 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 13:01:56 Dummy-1:12380 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 13:01:56 Dummy-1:8292 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:01:56 Dummy-1:12380 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:02:32 Dummy-1:8292 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 13:02:32 Dummy-1:12380 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 13:02:33 Dummy-1:8292 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:02:33 Dummy-1:12380 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:02:52 MainThread:4132 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:503] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 13:04:09 Dummy-1:12380 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 13:04:09 Dummy-1:12380 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:04:11 Dummy-1:8872 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 13:04:11 Dummy-1:8872 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:08:18 MainThread:13104 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 123说：你好
+2023-07-13 13:08:23 MainThread:13104 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 123说：你是谁
+2023-07-13 13:08:26 MainThread:13104 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:531] 123说：我是你爹
+2023-07-13 13:08:30 MainThread:9084 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:503] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 13:08:48 Dummy-1:15400 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 13:08:48 Dummy-1:15400 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:08:53 Dummy-1:11456 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 13:08:53 Dummy-1:11456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:16:05 Dummy-1:3292 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 13:16:05 Dummy-1:3292 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:639] 重连字典发送成功
+2023-07-13 13:21:29 MainThread:14952 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:504] 123发送了文件：C:/Users/19570/Desktop/学习计划.md
+2023-07-13 13:22:38 MainThread:12492 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:504] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 13:27:44 MainThread:15084 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:505] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 13:32:10 MainThread:10680 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:505] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 13:47:11 Dummy-1:6364 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 13:47:11 Dummy-1:6364 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:642] 重连字典发送成功
+2023-07-13 13:48:14 MainThread:2192 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:535] 1234说：你好
+2023-07-13 13:48:33 MainThread:2192 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:535] 1234说：我去你大爷的
+2023-07-13 13:48:38 MainThread:16628 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:506] 1234发送了文件：C:/Users/19570/Desktop/学习计划.md
+2023-07-13 13:50:14 MainThread:15608 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:536] 123说：你好
+2023-07-13 13:50:22 MainThread:2192 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:506] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 13:51:41 MainThread:1220 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:536] 123说：你好
+2023-07-13 13:51:47 MainThread:16500 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:507] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 13:57:10 MainThread:1220 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:536] 123说：你好
+2023-07-13 13:57:22 MainThread:13096 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 14:02:01 Dummy-1:16736 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 14:02:01 Dummy-1:15448 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 14:02:01 Dummy-1:16736 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:02:01 Dummy-1:15448 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:644] 重连字典发送成功
+2023-07-13 14:02:11 MainThread:1220 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:536] 123说：你好
+2023-07-13 14:02:18 MainThread:13096 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好
+2023-07-13 14:02:22 MainThread:13096 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 14:02:28 Dummy-1:15448 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 14:02:28 Dummy-1:15448 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:644] 重连字典发送成功
+2023-07-13 14:02:30 Dummy-1:16736 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 14:02:30 Dummy-1:16736 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:03:03 MainThread:17204 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好
+2023-07-13 14:03:08 MainThread:16272 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 123说：你好
+2023-07-13 14:03:35 MainThread:16272 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 14:08:18 Dummy-1:15640 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 14:08:18 Dummy-1:15140 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 14:08:18 Dummy-1:15640 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:08:18 Dummy-1:15140 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:08:30 MainThread:17204 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好
+2023-07-13 14:08:35 MainThread:16272 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 123说：你好
+2023-07-13 14:08:40 MainThread:16272 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 14:09:30 MainThread:3584 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 14:24:45 Dummy-1:17400 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 14:24:45 Dummy-1:17400 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:24:56 Dummy-1:17400 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 14:24:56 Dummy-2:14904 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 14:24:56 Dummy-1:17400 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第1次重连 [WinError 10038] 在一个非套接字上尝试了一个操作。
+2023-07-13 14:24:58 Dummy-1:17400 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:25:15 Dummy-1:17400 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 14:25:17 Dummy-1:17400 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-13 14:25:54 Dummy-1:11228 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 14:25:54 Dummy-2:18048 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 14:25:54 Dummy-1:11228 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第1次重连 [WinError 10038] 在一个非套接字上尝试了一个操作。
+2023-07-13 14:25:56 Dummy-1:11228 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:26:13 Dummy-1:11228 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 14:26:13 Dummy-1:11228 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 14:26:47 MainThread:4008 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 14:52:13 Dummy-1:17112 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 14:52:13 Dummy-1:17112 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 15:44:17 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好
+2023-07-13 15:44:30 MainThread:13408 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 15:45:30 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好
+2023-07-13 15:45:33 MainThread:3168 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 15:46:37 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好
+2023-07-13 15:50:22 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好
+2023-07-13 15:50:31 MainThread:8440 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:01:30 Dummy-1:15560 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 16:01:30 Dummy-1:15560 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:02:11 MainThread:13708 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 16:04:30 MainThread:12648 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:06:37 Dummy-1:17780 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:06:37 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:06:37 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:06:37 Dummy-1:17780 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:06:37 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:06:37 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:07:57 MainThread:12648 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:08:04 MainThread:12648 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:11:01 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:11:44 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:13:47 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:13:47 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:13:47 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:13:48 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:13:48 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:13:48 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:14:03 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:21:26 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:21:26 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:21:26 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:21:27 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:21:27 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:21:27 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:21:37 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-13 16:26:11 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:26:11 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 16:26:11 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:26:11 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:26:11 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:26:11 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:26:22 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:27:33 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:27:33 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:27:33 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:27:34 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:27:34 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:27:34 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:27:42 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-13 16:42:02 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:42:02 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 16:42:02 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:42:03 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:42:03 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:42:03 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:42:14 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 16:42:33 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:42:33 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 16:42:33 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:42:33 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:42:33 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 16:43:07 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-13 19:50:44 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：nihao
+2023-07-13 19:51:22 MainThread:2868 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] natsume37发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 19:59:24 Dummy-1:11656 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 19:59:24 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 19:59:24 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 19:59:24 Dummy-1:11656 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 19:59:24 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 19:59:24 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:00:13 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：你好
+2023-07-13 20:00:13 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：你好
+2023-07-13 20:00:30 MainThread:18652 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] natsume37发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 20:02:36 Dummy-1:17660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 20:02:36 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 20:02:36 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 20:02:36 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:02:36 Dummy-1:17660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:02:36 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:02:46 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：你好
+2023-07-13 20:03:04 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：你好
+2023-07-13 20:03:07 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：nihoa
+2023-07-13 20:03:07 MainThread:15984 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：nihoa
+2023-07-13 20:03:11 MainThread:17340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] natsume37说：我是急跌
+2023-07-13 20:03:17 MainThread:18652 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] natsume37发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 20:07:42 Dummy-1:9392 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 20:07:42 Dummy-1:17660 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 20:07:42 Dummy-1:14960 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 20:07:42 Dummy-1:17660 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:07:42 Dummy-1:14960 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:07:42 Dummy-1:9392 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:08:14 MainThread:17520 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 20:08:47 Dummy-1:17760 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 20:08:47 Dummy-1:17760 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 20:09:14 MainThread:17520 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-13 20:12:56 Dummy-1:17760 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 20:12:58 Dummy-1:17760 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-13 20:13:02 Dummy-1:17760 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-13 20:13:06 Dummy-1:17760 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-13 22:15:33 MainThread:16840 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-13 22:15:37 MainThread:16840 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:164] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-13 22:16:54 MainThread:16840 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：你好呀
+2023-07-13 22:17:01 MainThread:16840 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：我是你 爸
+2023-07-13 22:18:00 MainThread:16840 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-13 22:18:22 Dummy-1:8840 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10054] 远程主机强迫关闭了一个现有的连接。  这
+2023-07-13 22:18:22 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 22:18:22 Dummy-1:8840 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 22:18:22 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 22:18:31 MainThread:16840 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 1234说：NIHAO
+2023-07-13 22:18:39 MainThread:16840 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-13 22:21:02 Dummy-1:8840 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-13 22:21:02 Dummy-1:8840 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 22:41:30 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 123说：你好
+2023-07-13 22:41:34 MainThread:12760 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:510] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 22:53:59 Dummy-1:18564 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 22:53:59 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 22:53:59 Dummy-1:18564 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:647] 重连字典发送成功
+2023-07-13 22:53:59 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 22:54:52 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 123说：你好
+2023-07-13 22:54:56 MainThread:12760 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:510] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:01:36 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 123说：你好
+2023-07-13 23:01:42 MainThread:10236 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:08:26 Dummy-1:18456 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:08:26 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:08:26 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:08:26 Dummy-1:18456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:08:37 MainThread:10236 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:15:06 Dummy-1:18456 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:15:06 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:15:06 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:15:06 Dummy-1:18456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:15:18 MainThread:10236 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:26:23 Dummy-1:18456 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:26:23 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:26:24 Dummy-1:18456 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:26:24 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:26:48 MainThread:17760 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:28:37 Dummy-1:17164 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:28:37 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:28:37 Dummy-1:17164 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:28:37 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:28:55 MainThread:10848 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:30:45 Dummy-1:18864 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:45 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:46 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:30:46 Dummy-1:18864 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:30:46 Dummy-1:18864 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:46 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:46 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:30:46 Dummy-1:18864 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:30:46 Dummy-1:18864 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:46 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:47 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:30:47 Dummy-1:18864 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:30:51 Dummy-1:11844 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:51 Dummy-1:18864 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-13 23:30:51 Dummy-1:11844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:645] 重连字典发送成功
+2023-07-13 23:30:51 Dummy-1:18864 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-13 23:31:02 MainThread:10848 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:31:02 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：E:\pythonProject\chat_room\client\datas\2023-07\015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:40:54 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 123说：你好
+2023-07-13 23:41:03 MainThread:10848 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:541] 1234说：无语
+2023-07-14 12:49:02 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:537] 123说：你好呀
+2023-07-14 12:49:18 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：E:\pythonProject\chat_room\client\datas\2023-07\css.md
+2023-07-14 12:49:18 MainThread:10848 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/css.md
+2023-07-14 12:51:00 MainThread:10848 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 12:51:00 MainThread:3396 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:508] 123发送了文件：E:\pythonProject\chat_room\client\datas\2023-07\(1)015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 12:59:09 MainThread:5800 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:541] 1234说：你好
+2023-07-14 12:59:14 MainThread:17844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:541] 123说：我是你爹
+2023-07-14 12:59:19 MainThread:17844 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 12:59:19 MainThread:5800 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:512] 1234发送了文件：E:\pythonProject\chat_room\client\datas\2023-07\(1)(1)015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 13:02:43 Dummy-1:6636 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 13:02:43 Dummy-1:6636 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-14 13:02:44 Dummy-1:22492 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 13:02:44 Dummy-1:22492 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:649] 重连字典发送成功
+2023-07-14 13:03:38 Dummy-1:18380 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 13:03:40 Dummy-1:18380 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:167] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 13:04:12 MainThread:20160 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:167] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 13:04:16 MainThread:20160 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:167] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 13:04:40 Dummy-1:7876 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 13:05:18 Dummy-1:21924 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 13:05:20 Dummy-1:21924 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:167] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 13:06:30 Dummy-1:18860 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 13:06:32 Dummy-1:18860 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:167] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 13:16:36 MainThread:14940 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:516] 1234发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-14 13:16:36 MainThread:15444 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:516] 1234发送了文件：E:\pythonProject\chat_room\client\datas\2023-07\code.png
+2023-07-14 13:50:13 Dummy-1:10408 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 13:50:13 Dummy-1:9820 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 13:50:14 Dummy-1:10408 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:653] 重连字典发送成功
+2023-07-14 13:50:14 Dummy-1:9820 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:653] 重连字典发送成功
+2023-07-14 13:50:58 MainThread:22684 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:545] 1234说：你好
+2023-07-14 13:51:14 MainThread:10940 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:545] 123说：你是谁
+2023-07-14 13:51:22 MainThread:22684 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:516] 123发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 13:51:23 MainThread:10940 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:516] 123发送了文件：E:\pythonProject\chat_room\client\datas\2023-07\015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 13:57:11 MainThread:19836 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:546] 1234说：你好
+2023-07-14 13:57:16 MainThread:10764 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:517] 1234发送了文件：C:/Users/19570/Desktop/015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 13:57:16 MainThread:19836 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:517] 1234发送了文件：E:\pythonProject\chat_room\client\datas\2023-07\(1)015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 14:07:28 Dummy-1:14944 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:07:28 Dummy-1:22340 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:07:29 Dummy-1:14944 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:07:29 Dummy-1:22340 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:10:10 Dummy-1:344 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:10:10 Dummy-1:14944 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:10:12 Dummy-1:344 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:10:12 Dummy-1:14944 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:167] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:10:16 Dummy-1:344 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:10:16 Dummy-1:14944 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:167] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:10:18 Dummy-1:14944 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:11:02 Dummy-1:15056 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:11:03 Dummy-1:14944 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:12:25 Dummy-1:14944 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:12:26 Dummy-1:14944 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:12:55 Dummy-1:21932 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:13:30 Dummy-1:19248 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:14:10 Dummy-1:19588 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:14:11 Dummy-1:19588 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:652] 重连字典发送成功
+2023-07-14 14:17:08 Dummy-1:4080 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:23:03 Dummy-1:19964 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:25:11 Dummy-1:14144 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:27:15 Dummy-1:12252 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 14:27:15 Dummy-1:12252 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:652] 重连字典发送成功
+2023-07-14 14:29:32 Dummy-1:22668 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:32:49 Dummy-1:1228 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:33:28 Dummy-1:14560 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:39:35 Dummy-1:13104 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:42:19 Dummy-1:6832 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:43:20 MainThread:20044 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:43:42 Dummy-1:8956 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:44:30 Dummy-1:23364 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:45:12 Dummy-1:5580 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:46:10 Dummy-1:15380 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:47:15 Dummy-1:7268 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:47:15 Dummy-1:7268 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:48:03 Dummy-1:15452 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:48:04 Dummy-1:15452 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:49:12 Dummy-1:15452 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:49:14 Dummy-1:15452 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:49:16 Dummy-1:15452 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:49:29 Dummy-1:15452 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:49:31 Dummy-1:15452 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:49:33 Dummy-1:15452 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:49:48 Dummy-1:15452 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 14:49:48 Dummy-1:15452 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:49:55 Dummy-1:7456 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:49:57 Dummy-1:7456 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:52:16 Dummy-1:19572 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:52:18 Dummy-1:19572 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:52:22 Dummy-1:19572 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:52:26 Dummy-1:19572 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:55:21 Dummy-1:13004 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:55:23 Dummy-1:13004 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:56:10 Dummy-1:4500 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:56:12 Dummy-1:4500 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 14:57:18 Dummy-1:3292 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 14:58:11 Dummy-1:14476 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 14:58:11 Dummy-1:14476 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 14:59:36 Dummy-1:2144 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:00:25 Dummy-1:11612 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:01:45 Dummy-1:15352 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:01:45 Dummy-1:15352 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 15:02:03 Dummy-1:15172 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:02:03 Dummy-1:15172 [client] INFO [E:\pythonProject\chat_room\client\core\client.py:654] 重连字典发送成功
+2023-07-14 15:02:22 Dummy-1:15172 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:02:24 Dummy-1:15172 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:02:28 Dummy-1:15172 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:02:32 Dummy-1:15172 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第3次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:05:29 Dummy-1:15596 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:05:31 Dummy-1:15596 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:06:12 Dummy-1:8624 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:08:08 Dummy-1:8572 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:08:36 MainThread:8232 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:09:03 Dummy-1:7228 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:09:38 MainThread:12380 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:09:59 Dummy-1:18940 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:10:34 MainThread:20544 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:10:38 MainThread:20544 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:10:49 Dummy-1:7704 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:12:44 MainThread:15932 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:12:58 Dummy-1:12364 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:13:11 MainThread:10120 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:13:15 MainThread:10120 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第2次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:13:23 Dummy-1:7704 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:13:46 MainThread:15524 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:13:55 Dummy-1:7612 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:14:21 MainThread:11736 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:14:30 Dummy-1:19144 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 15:14:49 MainThread:8956 [client] ERROR [E:\pythonProject\chat_room\client\core\client.py:165] 连接服务器失败，开始第1次重连 [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2023-07-14 15:15:04 Dummy-1:15344 [client] ERROR [E:\pythonProject\chat_room\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-14 20:29:07 MainThread:9292 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:545] 123说：你好
+2023-07-14 20:29:10 MainThread:21540 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:545] 1234说：你好
+2023-07-14 20:29:13 MainThread:9292 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:516] 1234发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-14 20:29:13 MainThread:21540 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:516] 1234发送了文件：E:\文档资料缓存\聊天室\client\datas\2023-07\code.png
+2023-07-14 20:29:18 Dummy-1:23372 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 20:29:18 Dummy-1:23372 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:654] 重连字典发送成功
+2023-07-14 20:29:20 Dummy-1:1204 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 20:29:20 Dummy-1:1204 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:654] 重连字典发送成功
+2023-07-14 20:33:01 MainThread:8888 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:549] 1234说：你好
+2023-07-14 20:33:05 MainThread:20172 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:549] 123说：我是你爹
+2023-07-14 20:33:09 MainThread:20172 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:520] 1234发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-14 20:33:09 MainThread:8888 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:520] 1234发送了文件：E:\文档资料缓存\聊天室\client\datas\2023-07\(1)code.png
+2023-07-14 20:34:52 MainThread:15884 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:550] 1234说：你好
+2023-07-14 20:34:59 MainThread:12940 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-14 20:34:59 MainThread:15884 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/clashkey.txt
+2023-07-14 20:35:13 MainThread:15884 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 123发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-14 20:35:13 MainThread:12940 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 123发送了文件：E:\文档资料缓存\聊天室\client\datas\2023-07\(1)(1)code.png
+2023-07-14 20:42:15 MainThread:2364 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:550] 123说：你好
+2023-07-14 20:42:18 MainThread:19444 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:550] 1234说：你好
+2023-07-14 20:42:22 MainThread:19444 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 123发送了文件：C:/Users/19570/Desktop/clashkey.txt
+2023-07-14 20:42:22 MainThread:2364 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 123发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/clashkey.txt
+2023-07-14 20:42:29 MainThread:2364 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-14 20:42:29 MainThread:19444 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/code.png
+2023-07-14 20:42:35 Dummy-1:23512 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 20:42:35 Dummy-1:23512 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:659] 重连字典发送成功
+2023-07-14 20:42:36 Dummy-1:9484 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-14 20:42:36 Dummy-1:9484 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:659] 重连字典发送成功

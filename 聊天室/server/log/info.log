@@ -1,0 +1,1076 @@
+2023-07-12 14:38:30 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 14:39:51 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 14:40:10 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：你好呀
+2023-07-12 14:40:24 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：你好
+2023-07-12 14:40:40 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 14:40:40 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 14:40:40 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 14:40:41 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 14:40:41 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 14:40:41 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 14:44:12 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 14:44:26 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 14:44:44 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：你好呀
+2023-07-12 14:46:27 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 14:46:34 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 14:46:48 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 14:46:50 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 14:47:06 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：你哈
+2023-07-12 14:47:24 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 14:47:24 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 14:47:24 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 14:47:26 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 14:47:26 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 14:47:26 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 14:48:27 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 14:48:29 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：你好
+2023-07-12 14:48:35 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：我是你爹
+2023-07-12 14:48:54 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 14:48:57 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：你好
+2023-07-12 14:49:10 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：能看见不
+2023-07-12 14:49:53 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：可以
+2023-07-12 14:50:01 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：好的
+2023-07-12 14:50:09 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 14:50:09 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 14:50:09 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 14:50:10 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 14:50:10 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 14:50:10 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:07:54 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:08:02 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 15:08:29 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：你好
+2023-07-12 15:08:32 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 15:08:32 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:08:51 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:08:53 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：你好
+2023-07-12 15:08:56 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:11:52 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:11:55 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：你好
+2023-07-12 15:11:59 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:11:59 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 15:11:59 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:12:25 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:12:28 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：你好
+2023-07-12 15:12:47 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:12:48 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:12:51 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：年后
+2023-07-12 15:13:04 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:13:07 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:13:10 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：你好
+2023-07-12 15:13:16 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:13:16 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 15:13:16 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:13:24 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:13:33 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 15:13:37 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：你好
+2023-07-12 15:13:57 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 1234说：你好
+2023-07-12 15:14:04 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 15:14:04 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 15:14:04 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【1234】 离开了聊天室
+2023-07-12 15:14:05 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:14:05 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 15:14:05 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:18:07 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:19:51 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:19:52 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:21:22 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:21:24 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:21:30 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:21:56 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:22:01 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:23:02 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:23:08 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:121] 123说：file:///C:/Users/19570/Desktop/学习计划.md
+2023-07-12 15:23:12 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:23:12 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 15:23:12 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:24:01 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:24:07 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:28:56 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:29:20 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:29:21 MainThread:6196 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:36:00 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:36:08 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:48:03 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:48:06 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:48:06 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 15:48:06 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 15:49:39 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 15:53:36 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:20:48 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:21:36 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:21:36 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 16:21:36 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:22:16 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:22:31 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:22:31 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 16:22:31 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:30:27 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:30:43 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:30:43 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 16:30:43 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:34:14 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:34:35 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:34:35 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 16:34:35 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:35:59 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:36:47 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:36:48 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:39:16 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:39:18 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:43:19 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:43:21 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:52:38 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:52:40 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 16:53:54 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:53:54 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 16:53:54 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 16:55:28 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 17:16:32 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 17:16:36 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 17:17:22 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 17:17:22 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 17:17:22 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 17:17:51 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 17:19:07 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 17:19:10 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 17:19:33 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 17:19:33 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 17:19:33 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:251] 【123】 离开了聊天室
+2023-07-12 18:29:51 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 18:30:07 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 18:30:31 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 18:30:37 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：年后
+2023-07-12 18:30:54 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 18:30:54 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 18:30:55 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 18:30:55 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 18:30:55 MainThread:8340 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 20:49:12 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 20:49:28 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 20:49:51 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【1234】 离开了聊天室
+2023-07-12 20:50:15 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 20:50:15 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【1234】 离开了聊天室
+2023-07-12 20:50:17 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 20:50:17 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 20:50:17 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 20:50:56 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 20:51:17 MainThread:13060 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 20:51:18 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 20:51:22 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 20:58:47 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 20:58:50 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：你好
+2023-07-12 20:58:55 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：这是一个有趣的事情
+2023-07-12 21:11:00 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 21:11:03 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 21:11:22 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 21:19:42 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 21:19:44 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 21:20:02 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 21:20:02 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 21:20:02 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 21:20:29 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 21:20:46 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 21:20:49 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 21:23:21 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【1234】 离开了聊天室
+2023-07-12 21:24:12 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 21:24:12 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【1234】 离开了聊天室
+2023-07-12 21:33:04 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:339] 【123】 离开了聊天室
+2023-07-12 21:33:04 MainThread:2044 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 21:34:07 MainThread:2044 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 21:34:07 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 21:34:31 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 21:34:33 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 21:35:17 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 21:48:43 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：你好
+2023-07-12 21:48:48 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：我是你的好朋友
+2023-07-12 21:49:12 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 1234说：你好
+2023-07-12 21:51:18 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【1234】 离开了聊天室
+2023-07-12 21:51:18 MainThread:9492 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 21:51:18 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 21:51:18 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 21:51:45 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【1234】 离开了聊天室
+2023-07-12 21:51:48 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 21:52:35 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 21:53:06 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【natsume37】进入了聊天室
+2023-07-12 21:53:20 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] natsume37说：你好
+2023-07-12 22:02:43 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 22:02:45 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 22:03:12 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【natsume37】 离开了聊天室
+2023-07-12 22:03:21 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 22:04:36 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 22:04:36 MainThread:16924 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【1234】 离开了聊天室
+2023-07-12 22:08:09 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 22:08:35 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 22:08:51 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：你好
+2023-07-12 22:08:56 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 1234说：你好
+2023-07-12 22:09:22 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 1234说：你好呀
+2023-07-12 22:09:32 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：你好呀
+2023-07-12 22:10:02 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【1234】 离开了聊天室
+2023-07-12 22:10:02 MainThread:10556 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 22:25:05 MainThread:5064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 22:25:27 MainThread:5064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 123说：你好呀
+2023-07-12 22:25:51 MainThread:5064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 22:25:59 MainThread:5064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 1234说：你好
+2023-07-12 22:44:11 MainThread:5064 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【123】 离开了聊天室
+2023-07-12 22:44:11 MainThread:5064 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:341] 【1234】 离开了聊天室
+2023-07-12 22:44:12 MainThread:11688 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 22:44:12 MainThread:11688 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 22:44:31 MainThread:11688 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 22:44:31 MainThread:11688 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 22:44:31 MainThread:1696 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 22:44:31 MainThread:1696 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 22:45:06 MainThread:1696 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 22:45:06 MainThread:1696 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 22:45:14 MainThread:4612 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 22:45:14 MainThread:4612 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 22:45:40 MainThread:4612 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 22:45:40 MainThread:4612 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 22:45:42 MainThread:2860 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 22:45:42 MainThread:2860 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 22:46:07 MainThread:2860 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 22:46:07 MainThread:2860 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 22:46:09 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 22:46:09 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 22:48:54 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 1234说：你好
+2023-07-12 22:49:35 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 22:49:38 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 22:49:44 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【123】进入了聊天室
+2023-07-12 22:49:52 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 23:00:23 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 23:00:23 MainThread:14316 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 23:00:23 MainThread:12520 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 23:00:23 MainThread:12520 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 23:01:11 MainThread:12520 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 1234说：你好呀我是你爹
+2023-07-12 23:05:03 MainThread:12520 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 23:05:03 MainThread:12520 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 23:05:04 MainThread:8804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 23:05:04 MainThread:8804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 23:06:54 MainThread:8804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【123】 离开了聊天室
+2023-07-12 23:06:54 MainThread:8804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:342] 【1234】 离开了聊天室
+2023-07-12 23:06:55 MainThread:12576 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 23:06:55 MainThread:12576 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 23:09:17 MainThread:12576 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:343] 【1234】 离开了聊天室
+2023-07-12 23:09:17 MainThread:12576 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:343] 【123】 离开了聊天室
+2023-07-12 23:09:18 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【123】进入了聊天室
+2023-07-12 23:09:18 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:97] 【1234】进入了聊天室
+2023-07-12 23:45:03 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【natsume37】进入了聊天室
+2023-07-12 23:46:16 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-12 23:46:23 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:61] 【1234】进入了聊天室
+2023-07-12 23:47:45 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:122] 1234说：你好呀
+2023-07-12 23:53:20 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-12 23:53:20 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-12 23:53:20 MainThread:6900 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-12 23:53:24 MainThread:1584 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-12 23:53:24 MainThread:1584 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-12 23:53:24 MainThread:1584 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-12 23:53:50 MainThread:1584 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-12 23:57:26 MainThread:1584 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-12 23:57:26 MainThread:1584 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-12 23:57:26 MainThread:1584 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-12 23:57:27 MainThread:5476 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-12 23:57:27 MainThread:5476 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-12 23:57:27 MainThread:5476 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-12 23:58:38 MainThread:5476 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 00:00:27 MainThread:5476 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:00:27 MainThread:5476 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:00:27 MainThread:5476 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:00:41 MainThread:12416 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【natsume37】进入了聊天室
+2023-07-13 00:00:57 MainThread:12416 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-13 00:01:12 MainThread:12416 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 00:01:24 MainThread:12416 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 00:01:38 MainThread:8436 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 00:01:48 MainThread:8436 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 00:02:11 MainThread:8436 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【natsume37】进入了聊天室
+2023-07-13 00:04:54 MainThread:8436 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-13 00:04:54 MainThread:8436 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 00:04:54 MainThread:8436 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 00:04:54 MainThread:8552 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:04:54 MainThread:8552 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:04:54 MainThread:8552 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:07:24 MainThread:8552 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 00:07:24 MainThread:8552 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-13 00:07:24 MainThread:8552 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 00:07:24 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:07:24 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:07:24 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:10:15 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:10:15 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:10:15 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:10:15 MainThread:12280 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:10:15 MainThread:12280 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:10:15 MainThread:12280 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:15:22 MainThread:12280 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:15:22 MainThread:12280 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:15:22 MainThread:12280 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:15:23 MainThread:6104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:15:23 MainThread:6104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:15:23 MainThread:6104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:15:42 MainThread:6104 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:15:42 MainThread:6104 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:15:42 MainThread:6104 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:15:42 MainThread:14520 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:15:42 MainThread:14520 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:15:42 MainThread:14520 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:18:52 MainThread:14520 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:18:52 MainThread:14520 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:18:52 MainThread:14520 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:18:53 MainThread:4052 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:18:53 MainThread:4052 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:18:53 MainThread:4052 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:19:07 MainThread:4052 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:19:07 MainThread:4052 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:19:07 MainThread:4052 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:19:08 MainThread:11376 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:19:08 MainThread:11376 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:19:08 MainThread:11376 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:19:10 MainThread:11376 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:19:10 MainThread:11376 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:19:10 MainThread:11376 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:19:10 MainThread:4624 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:19:10 MainThread:4624 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:19:10 MainThread:4624 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:19:12 MainThread:4624 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:19:12 MainThread:4624 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:19:12 MainThread:4624 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:19:12 MainThread:8376 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:19:12 MainThread:8376 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:19:12 MainThread:8376 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:19:14 MainThread:8376 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:19:14 MainThread:8376 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:19:14 MainThread:8376 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:19:14 MainThread:10440 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:19:14 MainThread:10440 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:19:14 MainThread:10440 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:24:27 MainThread:10440 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:24:27 MainThread:10440 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:24:27 MainThread:10440 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:24:28 MainThread:14436 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:24:28 MainThread:14436 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:24:28 MainThread:14436 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:26:30 MainThread:14436 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 00:26:30 MainThread:14436 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 00:26:30 MainThread:14436 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 00:26:31 MainThread:8712 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:26:31 MainThread:8712 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:26:31 MainThread:8712 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:27:06 MainThread:8712 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【natsume37】 离开了聊天室
+2023-07-13 00:27:06 MainThread:8712 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【1234】 离开了聊天室
+2023-07-13 00:27:06 MainThread:8712 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【123】 离开了聊天室
+2023-07-13 00:27:07 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 00:27:07 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 00:27:07 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 00:27:58 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【123】 离开了聊天室
+2023-07-13 00:28:02 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【1234】 离开了聊天室
+2023-07-13 00:28:04 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【natsume37】 离开了聊天室
+2023-07-13 00:28:08 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 00:28:21 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 00:28:37 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【natsume37】进入了聊天室
+2023-07-13 09:01:27 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【natsume37】 离开了聊天室
+2023-07-13 09:01:27 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【123】 离开了聊天室
+2023-07-13 09:01:27 MainThread:14804 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【1234】 离开了聊天室
+2023-07-13 09:01:28 MainThread:15100 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:01:28 MainThread:15100 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:01:28 MainThread:15100 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 09:24:50 MainThread:15100 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【123】 离开了聊天室
+2023-07-13 09:24:50 MainThread:15100 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【1234】 离开了聊天室
+2023-07-13 09:24:50 MainThread:15100 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【natsume37】 离开了聊天室
+2023-07-13 09:24:50 MainThread:3832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 09:24:50 MainThread:3832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:24:50 MainThread:3832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:27:27 MainThread:3832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【123】 离开了聊天室
+2023-07-13 09:27:27 MainThread:3832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【natsume37】 离开了聊天室
+2023-07-13 09:27:27 MainThread:3832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【1234】 离开了聊天室
+2023-07-13 09:27:28 MainThread:3748 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:27:28 MainThread:3748 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:27:28 MainThread:3748 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 09:29:12 MainThread:3748 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【1234】 离开了聊天室
+2023-07-13 09:29:12 MainThread:3748 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【natsume37】 离开了聊天室
+2023-07-13 09:29:12 MainThread:3748 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【123】 离开了聊天室
+2023-07-13 09:29:12 MainThread:13712 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 09:29:12 MainThread:13712 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:29:12 MainThread:13712 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:32:30 MainThread:13712 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 09:34:48 MainThread:13712 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【natsume37】 离开了聊天室
+2023-07-13 09:34:48 MainThread:13712 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【1234】 离开了聊天室
+2023-07-13 09:34:48 MainThread:13712 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:347] 【123】 离开了聊天室
+2023-07-13 09:34:48 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 09:34:48 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:34:48 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:35:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 09:35:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:35:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 09:35:15 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-13 09:35:15 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 09:35:15 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-13 09:35:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 09:35:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:35:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 09:35:27 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 09:35:40 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 09:35:58 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 09:36:06 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你也好
+2023-07-13 09:37:33 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 09:37:33 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:37:33 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 09:37:35 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 09:37:35 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:37:35 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 09:46:13 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 09:46:17 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好‘
+2023-07-13 09:46:35 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 09:46:38 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 09:46:59 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 09:47:23 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：您好‘
+2023-07-13 09:47:26 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 09:47:26 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 09:47:26 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 09:47:28 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 09:47:28 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 09:48:10 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 09:48:25 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 09:48:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好好
+2023-07-13 09:48:42 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:02:40 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:02:45 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 10:02:50 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 10:03:05 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:03:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好呀我是你爹
+2023-07-13 10:03:49 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:03:51 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:03:53 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:03:56 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:03:58 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:04:01 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:04:03 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:04:04 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:04:25 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 10:04:28 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 10:06:01 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 10:06:06 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 10:06:13 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:06:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:06:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好呀
+2023-07-13 10:06:22 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:06:25 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好呀
+2023-07-13 10:06:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：哈哈哈哈或
+2023-07-13 10:06:34 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：高效
+2023-07-13 10:06:37 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：六六六
+2023-07-13 10:06:42 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：真不错
+2023-07-13 10:14:01 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:14:02 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:14:05 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:14:08 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:14:11 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:14:11 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 10:14:11 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:14:28 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:14:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:14:38 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 10:14:42 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 10:14:44 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 10:14:47 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 10:15:04 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:15:04 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 10:15:04 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:15:05 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 10:15:05 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 10:15:06 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 10:17:26 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:17:28 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdafasdg
+2023-07-13 10:17:30 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdfadsf
+2023-07-13 10:17:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdfasdf
+2023-07-13 10:17:32 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdfasdf
+2023-07-13 10:17:34 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdfasdf
+2023-07-13 10:17:35 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdfasdf
+2023-07-13 10:17:36 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdfasdg
+2023-07-13 10:17:38 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：dfasdga
+2023-07-13 10:17:39 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：sdfasd
+2023-07-13 10:17:44 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：年后
+2023-07-13 10:19:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:19:15 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:19:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:19:21 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:19:22 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:19:25 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:19:27 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是
+2023-07-13 10:19:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:19:34 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:19:45 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:19:48 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:24:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:24:55 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:25:00 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:25:02 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:25:36 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:25:37 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:25:39 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:25:44 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:25:47 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你是谁
+2023-07-13 10:25:49 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：嘿嘿嘿
+2023-07-13 10:25:50 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：哈哈哈哈或
+2023-07-13 10:25:52 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:25:55 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是
+2023-07-13 10:25:58 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是
+2023-07-13 10:26:01 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:28:27 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:28:28 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:28:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你哈哈哦
+2023-07-13 10:28:33 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:35 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:36 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:38 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:39 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:41 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:47 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:50 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:51 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:28:54 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：沃斯尼蝶
+2023-07-13 10:31:04 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:31:06 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:31:09 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:31:10 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:31:12 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:31:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:31:15 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:31:17 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:31:20 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:31:24 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:31:24 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 10:31:24 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:31:31 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 10:31:39 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 10:31:56 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好呀
+2023-07-13 10:32:00 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：我是你爹
+2023-07-13 10:32:04 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 10:32:08 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 10:32:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:32:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 10:32:19 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 10:32:19 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 10:32:19 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 10:32:20 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 12:26:58 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:27:07 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 12:27:14 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 12:27:15 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 12:27:18 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 12:27:19 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:28:05 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:28:07 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 12:28:10 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:28:19 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:28:25 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 12:28:28 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:28:35 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:28:38 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 12:28:40 MainThread:7420 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:31:23 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:31:42 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 12:33:55 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:33:57 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:34:04 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 12:34:09 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 12:34:31 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 12:34:33 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 12:37:15 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:37:17 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:37:20 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 12:37:28 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 12:37:33 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 12:38:46 MainThread:15328 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:38:46 MainThread:6588 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 12:38:46 MainThread:6588 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 12:39:02 MainThread:6588 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 12:39:09 MainThread:6588 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 12:39:29 MainThread:6588 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 12:39:29 MainThread:6588 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 12:39:29 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 12:39:29 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 12:39:39 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 12:39:49 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是谁
+2023-07-13 12:39:53 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 12:39:53 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 12:39:53 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 12:39:54 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 12:39:54 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 12:39:54 MainThread:15252 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 12:42:12 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:42:19 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 12:42:27 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 12:42:32 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：我是你爹
+2023-07-13 12:42:38 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 12:43:46 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:43:46 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 12:43:46 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:43:48 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 12:43:48 MainThread:15272 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【1234】 离开了聊天室
+2023-07-13 12:44:38 MainThread:16176 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 12:44:44 MainThread:16176 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 12:45:01 MainThread:16176 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【123】 离开了聊天室
+2023-07-13 12:45:54 MainThread:16176 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【natsume37】进入了聊天室
+2023-07-13 13:01:56 MainThread:16176 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:344] 【natsume37】 离开了聊天室
+2023-07-13 13:01:56 MainThread:12680 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 13:01:56 MainThread:12680 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 13:02:32 MainThread:12680 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 13:02:32 MainThread:12680 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:02:33 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 13:02:33 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 13:02:45 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:02:47 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:02:52 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:04:02 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] natsume37说：nihao
+2023-07-13 13:04:09 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 13:04:09 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 13:04:09 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【natsume37】 离开了聊天室
+2023-07-13 13:04:11 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 13:04:11 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:07:53 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:07:59 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 13:08:18 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:08:23 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你是谁
+2023-07-13 13:08:26 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 13:08:30 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:08:48 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 13:08:48 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:08:53 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 13:08:53 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 13:08:54 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 13:15:53 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:15:56 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:16:05 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:16:05 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 13:16:05 MainThread:5564 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:21:20 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:21:29 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:22:25 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:22:27 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:22:31 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 13:22:38 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:27:00 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:27:08 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:27:12 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 13:27:29 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你大爷的
+2023-07-13 13:27:44 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:32:06 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:32:10 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:47:11 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 13:47:11 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:47:50 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:47:55 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:47:59 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 13:48:10 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 13:48:14 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 13:48:33 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：我去你大爷的
+2023-07-13 13:48:38 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 13:50:06 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 13:50:14 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:50:22 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:51:21 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:51:26 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 13:51:30 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 13:51:41 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:51:47 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 13:57:04 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 13:57:10 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 13:57:22 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【123】 离开了聊天室
+2023-07-13 14:02:01 MainThread:15396 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:345] 【1234】 离开了聊天室
+2023-07-13 14:02:01 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:02:01 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 14:02:11 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 14:02:17 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 14:02:22 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【123】 离开了聊天室
+2023-07-13 14:02:28 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【1234】 离开了聊天室
+2023-07-13 14:02:28 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 14:02:28 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【1234】 离开了聊天室
+2023-07-13 14:02:30 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:02:30 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【123】 离开了聊天室
+2023-07-13 14:02:50 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 14:02:59 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 14:03:03 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 14:03:08 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 14:03:35 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【1234】 离开了聊天室
+2023-07-13 14:08:18 MainThread:17324 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:346] 【123】 离开了聊天室
+2023-07-13 14:08:18 MainThread:14992 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:08:18 MainThread:14992 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 14:08:30 MainThread:14992 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 14:08:35 MainThread:14992 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 14:08:40 MainThread:14992 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 14:09:06 MainThread:14992 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:09:19 MainThread:15900 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 14:09:23 MainThread:15900 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 14:09:30 MainThread:15900 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:24:45 MainThread:18340 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:24:56 MainThread:18340 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:24:58 MainThread:18340 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:25:15 MainThread:18340 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:25:37 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 14:25:40 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 14:25:43 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-13 14:25:54 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:25:56 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:26:13 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:26:13 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:26:13 MainThread:10104 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:26:36 MainThread:7320 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 14:26:38 MainThread:7320 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 14:26:47 MainThread:7320 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 14:52:13 MainThread:7320 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 14:52:13 MainThread:7320 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 15:43:52 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 15:44:01 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好呀
+2023-07-13 15:44:12 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 15:44:17 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 15:44:30 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 15:45:24 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 15:45:30 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 15:45:33 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 15:46:31 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 15:46:37 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 15:50:22 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-13 15:50:31 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 15:52:45 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【natsume37】进入了聊天室
+2023-07-13 16:01:30 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:01:30 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 16:01:53 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 16:02:11 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 16:04:17 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 16:04:30 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【1234】 离开了聊天室
+2023-07-13 16:06:37 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【123】 离开了聊天室
+2023-07-13 16:06:37 MainThread:8504 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:349] 【natsume37】 离开了聊天室
+2023-07-13 16:06:37 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:06:37 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 16:06:37 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 16:07:57 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-13 16:10:56 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 16:11:01 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-13 16:13:47 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-13 16:13:47 MainThread:13840 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【natsume37】 离开了聊天室
+2023-07-13 16:13:48 MainThread:18300 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:13:48 MainThread:18300 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 16:13:48 MainThread:18300 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 16:14:03 MainThread:18300 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-13 16:21:26 MainThread:18300 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【natsume37】 离开了聊天室
+2023-07-13 16:21:26 MainThread:18300 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-13 16:21:27 MainThread:16084 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 16:21:27 MainThread:16084 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 16:21:27 MainThread:16084 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:21:37 MainThread:16084 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:350] 【1234】 离开了聊天室
+2023-07-13 16:26:11 MainThread:16084 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:350] 【natsume37】 离开了聊天室
+2023-07-13 16:26:11 MainThread:16084 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:350] 【123】 离开了聊天室
+2023-07-13 16:26:11 MainThread:15364 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:26:11 MainThread:15364 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 16:26:11 MainThread:15364 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 16:26:22 MainThread:15364 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:359] 【1234】 离开了聊天室
+2023-07-13 16:27:33 MainThread:15364 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:359] 【123】 离开了聊天室
+2023-07-13 16:27:33 MainThread:15364 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:359] 【natsume37】 离开了聊天室
+2023-07-13 16:27:34 MainThread:18268 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 16:27:34 MainThread:18268 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 16:27:34 MainThread:18268 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:27:42 MainThread:18268 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【1234】 离开了聊天室
+2023-07-13 16:42:02 MainThread:18268 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【123】 离开了聊天室
+2023-07-13 16:42:02 MainThread:18268 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【natsume37】 离开了聊天室
+2023-07-13 16:42:03 MainThread:9940 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:42:03 MainThread:9940 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 16:42:03 MainThread:9940 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 16:42:14 MainThread:9940 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【1234】 离开了聊天室
+2023-07-13 16:42:33 MainThread:9940 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【123】 离开了聊天室
+2023-07-13 16:42:33 MainThread:9940 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【natsume37】 离开了聊天室
+2023-07-13 16:42:33 MainThread:10444 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 16:42:33 MainThread:10444 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 16:42:33 MainThread:10444 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 16:43:07 MainThread:10444 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【1234】 离开了聊天室
+2023-07-13 19:50:44 MainThread:10444 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] natsume37说：nihao
+2023-07-13 19:51:22 MainThread:10444 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【natsume37】 离开了聊天室
+2023-07-13 19:59:24 MainThread:10444 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【123】 离开了聊天室
+2023-07-13 19:59:24 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 19:59:24 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 19:59:24 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 19:59:46 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【natsume37】 离开了聊天室
+2023-07-13 20:00:06 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【natsume37】进入了聊天室
+2023-07-13 20:00:13 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] natsume37说：你好
+2023-07-13 20:00:30 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【natsume37】 离开了聊天室
+2023-07-13 20:02:36 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【123】 离开了聊天室
+2023-07-13 20:02:36 MainThread:17688 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【1234】 离开了聊天室
+2023-07-13 20:02:36 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 20:02:36 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 20:02:36 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 20:02:46 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] natsume37说：你好
+2023-07-13 20:03:04 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] natsume37说：你好
+2023-07-13 20:03:07 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] natsume37说：nihoa
+2023-07-13 20:03:11 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] natsume37说：我是急跌
+2023-07-13 20:03:17 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【natsume37】 离开了聊天室
+2023-07-13 20:07:42 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【1234】 离开了聊天室
+2023-07-13 20:07:42 MainThread:11228 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:360] 【123】 离开了聊天室
+2023-07-13 20:07:42 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【natsume37】进入了聊天室
+2023-07-13 20:07:42 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 20:07:42 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 20:07:48 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【natsume37】 离开了聊天室
+2023-07-13 20:08:03 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【123】 离开了聊天室
+2023-07-13 20:08:06 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【1234】 离开了聊天室
+2023-07-13 20:08:09 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 20:08:14 MainThread:15232 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【123】 离开了聊天室
+2023-07-13 20:08:47 MainThread:16460 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 20:09:06 MainThread:16460 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 20:09:14 MainThread:16460 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 22:16:21 MainThread:19204 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 22:16:32 MainThread:19204 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-13 22:16:54 MainThread:19204 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好呀
+2023-07-13 22:17:01 MainThread:19204 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：我是你 爸
+2023-07-13 22:18:00 MainThread:19204 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 22:18:22 MainThread:19204 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-13 22:18:22 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 22:18:22 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 22:18:31 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：NIHAO
+2023-07-13 22:18:38 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 22:21:02 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 22:21:02 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 22:24:36 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 22:41:22 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 22:41:23 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 22:41:30 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 22:41:34 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 22:53:59 MainThread:17144 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-13 22:53:59 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 22:53:59 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 22:54:52 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 22:54:56 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 23:01:29 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 23:01:36 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 23:01:42 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 23:08:26 MainThread:17248 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-13 23:08:26 MainThread:14064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:08:26 MainThread:14064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:08:37 MainThread:14064 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【123】 离开了聊天室
+2023-07-13 23:15:06 MainThread:14064 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【1234】 离开了聊天室
+2023-07-13 23:15:06 MainThread:15588 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:15:06 MainThread:15588 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:15:18 MainThread:15588 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【123】 离开了聊天室
+2023-07-13 23:26:23 MainThread:15588 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:361] 【1234】 离开了聊天室
+2023-07-13 23:26:24 MainThread:768 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:26:24 MainThread:768 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:26:33 MainThread:768 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 23:26:35 MainThread:768 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 23:26:48 MainThread:768 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 23:28:37 MainThread:768 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-13 23:28:37 MainThread:19188 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:28:37 MainThread:19188 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:28:45 MainThread:19188 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:363] 【123】 离开了聊天室
+2023-07-13 23:28:49 MainThread:19188 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-13 23:28:55 MainThread:19188 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:363] 【123】 离开了聊天室
+2023-07-13 23:30:45 MainThread:19188 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:363] 【1234】 离开了聊天室
+2023-07-13 23:30:46 MainThread:13816 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:30:46 MainThread:13816 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-13 23:30:46 MainThread:13816 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:30:46 MainThread:13816 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 23:30:46 MainThread:12064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:30:46 MainThread:12064 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:30:46 MainThread:12064 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-13 23:30:46 MainThread:12064 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 23:30:47 MainThread:8960 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:30:47 MainThread:8960 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:30:51 MainThread:8960 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-13 23:30:51 MainThread:8960 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-13 23:30:51 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-13 23:30:51 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-13 23:31:02 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:148] 123发了文件：015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-13 23:40:54 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-13 23:41:03 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：无语
+2023-07-14 12:49:02 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好呀
+2023-07-14 12:49:18 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:148] 123发了文件：css.md
+2023-07-14 12:51:00 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:148] 123发了文件：015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 12:58:35 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-14 12:58:41 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 12:58:45 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-14 12:58:48 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 12:59:09 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-14 12:59:14 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：我是你爹
+2023-07-14 12:59:19 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:148] 1234发了文件：015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 13:02:43 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-14 13:02:43 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 13:02:43 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-14 13:02:44 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-14 13:02:44 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 13:02:44 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【1234】 离开了聊天室
+2023-07-14 13:03:25 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 13:03:38 MainThread:16600 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:362] 【123】 离开了聊天室
+2023-07-14 13:04:23 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 13:04:40 MainThread:14380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:358] 【123】 离开了聊天室
+2023-07-14 13:05:08 MainThread:3532 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 13:05:18 MainThread:3532 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:358] 【123】 离开了聊天室
+2023-07-14 13:06:04 MainThread:14140 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 13:06:30 MainThread:14140 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:358] 【123】 离开了聊天室
+2023-07-14 13:16:01 MainThread:21684 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 13:16:27 MainThread:21684 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 13:16:36 MainThread:21684 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:148] 1234发了文件：code.png
+2023-07-14 13:50:13 MainThread:21684 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:358] 【1234】 离开了聊天室
+2023-07-14 13:50:13 MainThread:21684 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:358] 【123】 离开了聊天室
+2023-07-14 13:50:14 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 13:50:14 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 13:50:23 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 13:50:27 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 13:50:39 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 13:50:48 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 13:50:58 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-14 13:51:14 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你是谁
+2023-07-14 13:51:23 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:148] 123发了文件：015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 13:56:41 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 13:56:47 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 13:56:55 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 13:56:57 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 13:57:11 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 1234说：你好
+2023-07-14 13:57:16 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:148] 1234发了文件：015257b53a2c7f0ec73eb29101f78b3.jpg
+2023-07-14 14:07:28 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 14:07:28 MainThread:14508 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:07:29 MainThread:19128 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 14:07:29 MainThread:19128 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:09:43 MainThread:19128 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:09:47 MainThread:19128 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:10:10 MainThread:19128 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:10:10 MainThread:19128 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 14:10:18 MainThread:20824 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 14:10:36 MainThread:20824 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:10:47 MainThread:20824 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:10:48 MainThread:20824 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:11:02 MainThread:20824 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:11:02 MainThread:20824 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 14:11:03 MainThread:14000 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 14:12:25 MainThread:14000 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 14:12:26 MainThread:22516 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 14:12:36 MainThread:22516 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:12:50 MainThread:22516 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 14:12:55 MainThread:22516 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:13:14 MainThread:780 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:13:30 MainThread:780 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:13:47 MainThread:22280 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:13:55 MainThread:22280 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-14 14:14:02 MainThread:22280 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好呀
+2023-07-14 14:14:10 MainThread:22280 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:14:11 MainThread:15116 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:14:18 MainThread:15116 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:16:50 MainThread:15116 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:16:56 MainThread:15116 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：年后
+2023-07-14 14:17:08 MainThread:15116 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:23:00 MainThread:23320 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:23:03 MainThread:23320 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:25:08 MainThread:7968 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:25:11 MainThread:7968 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:27:12 MainThread:14428 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:27:15 MainThread:14428 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:27:15 MainThread:14428 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:27:16 MainThread:14428 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:29:30 MainThread:9972 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:29:32 MainThread:9972 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:32:47 MainThread:22832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:32:49 MainThread:22832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:33:24 MainThread:17436 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:33:28 MainThread:17436 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:39:33 MainThread:11668 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:39:35 MainThread:11668 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:42:17 MainThread:3168 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:43:40 MainThread:1632 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:44:24 MainThread:15636 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:44:30 MainThread:15636 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:45:03 MainThread:18404 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:45:12 MainThread:18404 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:46:08 MainThread:20452 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:47:11 MainThread:20964 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:47:15 MainThread:20964 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:47:15 MainThread:8992 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:47:19 MainThread:8992 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:47:53 MainThread:12776 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:48:03 MainThread:12776 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:48:04 MainThread:3192 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:48:08 MainThread:3192 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：你好
+2023-07-14 14:49:12 MainThread:3192 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:49:16 MainThread:21724 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:49:29 MainThread:21724 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:49:33 MainThread:22692 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:49:48 MainThread:22692 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:49:48 MainThread:22692 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:49:48 MainThread:22692 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:49:52 MainThread:22692 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:49:55 MainThread:22692 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:52:08 MainThread:19472 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:52:16 MainThread:19472 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:55:19 MainThread:21864 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:55:21 MainThread:21864 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:56:07 MainThread:19004 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:56:10 MainThread:19004 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:57:16 MainThread:12552 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:57:18 MainThread:12552 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:58:09 MainThread:12380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:58:11 MainThread:12380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:58:11 MainThread:12380 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 14:58:11 MainThread:12380 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 14:59:34 MainThread:14376 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 14:59:36 MainThread:14376 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:00:19 MainThread:23464 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:00:25 MainThread:23464 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:01:39 MainThread:20324 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:01:45 MainThread:20324 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:01:45 MainThread:20408 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 15:01:51 MainThread:20408 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:01:58 MainThread:20408 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:02:03 MainThread:20408 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:02:03 MainThread:21384 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 15:02:08 MainThread:21384 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:125] 123说：年后
+2023-07-14 15:02:22 MainThread:21384 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:05:26 MainThread:17796 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:05:29 MainThread:17796 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:06:09 MainThread:13756 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:06:12 MainThread:13756 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:08:04 MainThread:10248 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:08:08 MainThread:10248 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:08:59 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:09:03 MainThread:6832 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:09:54 MainThread:10496 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:09:59 MainThread:10496 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:10:45 MainThread:11620 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:10:49 MainThread:11620 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:12:56 MainThread:20764 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:12:58 MainThread:20764 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:13:20 MainThread:13056 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:13:23 MainThread:13056 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:13:54 MainThread:32 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:13:55 MainThread:32 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:14:27 MainThread:15464 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:14:30 MainThread:15464 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 15:15:01 MainThread:1172 [server] INFO [E:\pythonProject\chat_room\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 15:15:04 MainThread:1172 [server] INFO [E:\pythonProject\chat_room\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 19:51:15 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 20:28:55 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 20:29:07 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:125] 123说：你好
+2023-07-14 20:29:10 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:125] 1234说：你好
+2023-07-14 20:29:13 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:148] 1234发了文件：code.png
+2023-07-14 20:29:18 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 20:29:18 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 20:29:18 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 20:29:20 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 20:29:20 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 20:29:20 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 20:32:27 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 20:32:39 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 20:33:01 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:125] 1234说：你好
+2023-07-14 20:33:05 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:125] 123说：我是你爹
+2023-07-14 20:33:09 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:148] 1234发了文件：code.png
+2023-07-14 20:34:18 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 20:34:25 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 20:34:35 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 20:34:36 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 20:34:52 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:125] 1234说：你好
+2023-07-14 20:34:59 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:148] 1234发了文件：clashkey.txt
+2023-07-14 20:35:13 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:148] 123发了文件：code.png
+2023-07-14 20:37:56 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 20:37:57 MainThread:22264 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 20:41:49 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【123】进入了聊天室
+2023-07-14 20:41:59 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:62] 【1234】进入了聊天室
+2023-07-14 20:42:15 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:125] 123说：你好
+2023-07-14 20:42:18 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:125] 1234说：你好
+2023-07-14 20:42:22 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:148] 123发了文件：clashkey.txt
+2023-07-14 20:42:29 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:148] 1234发了文件：code.png
+2023-07-14 20:42:35 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 20:42:35 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:98] 【123】进入了聊天室
+2023-07-14 20:42:35 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【123】 离开了聊天室
+2023-07-14 20:42:36 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【1234】 离开了聊天室
+2023-07-14 20:42:36 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\core\views.py:98] 【1234】进入了聊天室
+2023-07-14 20:42:36 MainThread:21152 [server] INFO [E:\文档资料缓存\聊天室\server\lib\common.py:351] 【1234】 离开了聊天室
