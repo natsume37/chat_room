@@ -858,3 +858,47 @@
 2023-07-14 20:42:35 Dummy-1:23512 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:659] 重连字典发送成功
 2023-07-14 20:42:36 Dummy-1:9484 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
 2023-07-14 20:42:36 Dummy-1:9484 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:659] 重连字典发送成功
+2023-07-15 13:26:50 MainThread:18268 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:550] 123说：你好呀
+2023-07-15 13:26:56 MainThread:6060 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:550] 1234说：我是你爹
+2023-07-15 13:27:04 MainThread:18268 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:27:04 MainThread:6060 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:27:28 MainThread:6060 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 123发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-15 13:27:28 MainThread:18268 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 123发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)code.png
+2023-07-15 13:27:37 MainThread:6060 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/安装nginx.md
+2023-07-15 13:27:37 MainThread:18268 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：C:/Users/19570/Desktop/安装nginx.md
+2023-07-15 13:27:56 MainThread:6060 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:27:56 MainThread:18268 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:28:30 MainThread:6060 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/学习计划.md
+2023-07-15 13:28:30 MainThread:18268 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：C:/Users/19570/Desktop/学习计划.md
+2023-07-15 13:33:52 MainThread:16160 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:33:52 MainThread:8268 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:521] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:38:09 MainThread:21920 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:520] 123发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)(1)(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:38:09 MainThread:17776 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:520] 123发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:41:25 MainThread:10312 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:517] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:41:25 MainThread:7456 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:517] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)(1)(1)(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:42:49 MainThread:12200 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 123发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:42:49 MainThread:11908 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 123发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)(1)(1)(1)(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:44:55 MainThread:11908 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 123发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:44:55 MainThread:12200 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 123发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:50:53 MainThread:12016 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:50:53 MainThread:9776 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:54:50 MainThread:9776 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 13:54:50 MainThread:12016 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 14:01:41 MainThread:13592 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：C:/Users/19570/Desktop/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 14:01:41 MainThread:6316 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 14:01:49 MainThread:13592 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：C:/Users/19570/Desktop/code.png
+2023-07-15 14:01:49 MainThread:6316 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/code.png
+2023-07-15 14:01:54 MainThread:6316 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/css.md
+2023-07-15 14:01:54 MainThread:13592 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：C:/Users/19570/Desktop/css.md
+2023-07-15 14:08:50 MainThread:6316 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 14:08:50 MainThread:13592 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：C:/Users/19570/Desktop/你好  呀/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 14:10:18 Dummy-1:6848 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-15 14:10:18 Dummy-1:14356 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连  这
+2023-07-15 14:10:18 Dummy-1:6848 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:656] 重连字典发送成功
+2023-07-15 14:10:18 Dummy-1:14356 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:656] 重连字典发送成功
+2023-07-15 14:10:38 MainThread:13592 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：C:/Users/19570/Desktop/你好  呀/《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 14:10:38 MainThread:6316 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:518] 1234发送了文件：E:/文档资料缓存/聊天室/client/datas/2023-07/(1)(1)《在线聊天室》- Python实战开发（资料分享）.txt
+2023-07-15 14:10:52 Dummy-1:6848 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-15 14:10:52 Dummy-1:6848 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:656] 重连字典发送成功
+2023-07-15 14:10:53 Dummy-1:14356 [client] ERROR [E:\文档资料缓存\聊天室\client\lib\common.py:77] 连接断开、正在重连[WinError 10053] 你的主机中的软件中止了一个已建立的连接。  这
+2023-07-15 14:10:53 Dummy-1:14356 [client] INFO [E:\文档资料缓存\聊天室\client\core\client.py:656] 重连字典发送成功

@@ -368,16 +368,16 @@ class ChatWindow(ChatUiMixin, QWidget):
 
     @staticmethod
     def open_url(q_url):
-        LOGGER.debug(f'{q_url}  q_url-open-url')
         system_name = os.name
-        print(q_url.toLocalFile(), '文件路径')
+        # print(q_url.toLocalFile(), '文件路径')
         # 苹果用户
         if system_name == 'posix':
             os.system(r'open "{}"'.format(q_url.toLocalFile()))
-            os.system(r'open "{}{}{}"'.format(q_url.toLocalFile()[2:3], ':', q_url.toLocalFile()[3:]))
+            # os.system(r'open "{}{}{}"'.format(q_url.toLocalFile()[2:3], ':', q_url.toLocalFile()[3:]))
         # windows打开文件
         elif system_name == 'nt':
-            os.system(r'start {}{}{}'.format(q_url.toLocalFile()[2:3], ':', q_url.toLocalFile()[3:]))
+            os.system(r'start " " "{}{}{}'.format(q_url.toLocalFile()[2:3], ':', q_url.toLocalFile()[3:]))
+            # print(r'start " " "{}{}{}'.format(q_url.toLocalFile()[2:3], ':', q_url.toLocalFile()[3:]))
 
     @staticmethod
     def get_icon(url):
@@ -427,18 +427,17 @@ class ChatWindow(ChatUiMixin, QWidget):
         exit()
 
     def show_tip(self):
-        print(1)
         self.tip_label.setText('连接断开 正在重连...')
         self.tip_label.adjustSize()
         self.tip_label.setFixedSize(self.tip_label.size())
         self.tip_label.show()
 
-        # QMessageBox.about(self, '提示', '链接异常正在重连')
-        # time.sleep(1)
+        QMessageBox.about(self, '提示', '链接异常正在重连')
+        time.sleep(1)
         #  三行代码有小问题
-        x = self.geometry().center().x()
-        y = self.geometry().center().y()
-        self.tip_label.move(x - self.tip_label.width() / 2, y - self.tip_label.height() / 2)
+        # x = self.geometry().center().x()
+        # y = self.geometry().center().y()
+        # self.tip_label.move(x - self.tip_label.width() / 2, y - self.tip_label.height() / 2)
 
     def t_signal(self, s):
         self.signal_route.get(s)()
@@ -473,7 +472,6 @@ class ChatWindow(ChatUiMixin, QWidget):
         self.cursor_end()
         user = response_dic.get('user')
         url = response_dic.get('file_path')
-        print('图片路径', url)
         html = """
                                         <tr style="text-align:{}">
                                         <p>
@@ -506,7 +504,6 @@ class ChatWindow(ChatUiMixin, QWidget):
             file_dir = file_dir.replace('\\', '/')
 
             url = url.replace('\\', '/')
-            print(file_dir, url, '文件展示')
             file_name = response_dic.get('file_name')
             file_size = byte_to_human(response_dic.get('file_size'))
             self.textBrowser.insertHtml(html.format(
@@ -649,7 +646,7 @@ class MyThread(QThread):
         LOGGER.debug('接收数据')
         while True:
             response_dic = self.get()
-            print(response_dic)
+            LOGGER.debug(response_dic)
             if not response_dic:
                 # 重连成功，发重连请求更新数据
                 while True:
