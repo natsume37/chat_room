@@ -7,18 +7,22 @@
 """
 
 import asyncio
-
+import os
+from multiprocessing import Process
 from lib.common import *
 from core.urls import route_mode
 
 
 class Chatserver:
-    def __init__(self, host='localhost', port=9000):
+    def __init__(self, host='localhost', port=9000, q_list=None, idx=0):
         self.host = host
         self.port = port
+        MyConn.q_list = q_list
+        MyConn.bcst_q = q_list[idx]
         asyncio.run(asyncio.wait([self.run_server(), MyConn.send_all()]))
 
     async def client_handel(self, reader, writer):
+        print('进程号：', os.getpid(), '端口号：', self.port)
         async with MyConn(reader, writer) as conn:
             while True:
                 request_dic = await conn.recv()
@@ -34,4 +38,8 @@ class Chatserver:
 
 
 def run():
-    Chatserver(HOST, PORT)
+    cpu_cont = os.cpu_count()
+    q_list = [Queue() for _ in range(cpu_cont)]
+    for i in range(1, cpu_cont):
+        Process(target=Chatserver, args=(HOST, PORT + i, q_list, i)).start()
+    Chatserver(HOST, PORT + cpu_cont, q_list, 0)
